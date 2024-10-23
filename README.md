@@ -1,4 +1,17 @@
-# Logistic-Regression
+# Logistic Regression from Scratch Using Numpy
 
-This project explores Logistic Regression, a pivotal topic in Artificial Intelligence (AI), providing a comprehensive understanding of its history, theory, and algorithmic functioning.The study details an experimental methodology wherein Logistic Regression is implemented
-from scratch using only the numpy library. The algorithm is applied to a dataset encompassing crucial health information such as cholesterol levels, blood pressure, and more. The primary objective is to facilitate binary classification, determining whether an individual isafflicted with a health disease based on their vital health parameters. The report delves into the intricacies of model development, training, and evaluation, shedding light on thepractical implications of Logistic Regression in the context of health data analysis.
+This project implements **Logistic Regression**, a crucial algorithm in **Artificial Intelligence (AI)**, specifically for **binary classification tasks**. The goal is to build the Logistic Regression model from scratch using only the **Numpy** library without any external machine learning frameworks. The project was carried out to fulfill the requirements for Artificial Intelligence(CT653) during the sixth semester of my undergraduate study.
+
+## Project Overview
+
+The focus of this project is on health informatics, where the Logistic Regression algorithm is applied to a dataset containing essential health information such as cholesterol levels, blood pressure, and more. The primary objective is to determine whether an individual is afflicted with a health-related condition based on their **vital health parameters**.
+
+## Key Features
+- **Binary Classification:** Predict whether an individual has a disease based on health data.
+- **Health Informatics:** Analyze critical health parameters like cholesterol levels and blood pressure.
+- **Model Development:** From theory to implementation, the project walks through the development of a Logistic Regression model using Numpy.
+- **Training and Evaluation:** The model is trained and evaluated using common metrics like **precision**, **recall**, and **F1 score**.
+- **Binary Crossentropy Loss:** The crossentropy function is used to measure the accuracy of predictions during the training phase.
+
+
+
