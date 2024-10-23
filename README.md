@@ -1,0 +1,4 @@
+# Logistic-Regression
+
+This project explores Logistic Regression, a pivotal topic in Artificial Intelligence (AI), providing a comprehensive understanding of its history, theory, and algorithmic functioning.The study details an experimental methodology wherein Logistic Regression is implemented
+from scratch using only the numpy library. The algorithm is applied to a dataset encompassing crucial health information such as cholesterol levels, blood pressure, and more. The primary objective is to facilitate binary classification, determining whether an individual isafflicted with a health disease based on their vital health parameters. The report delves into the intricacies of model development, training, and evaluation, shedding light on thepractical implications of Logistic Regression in the context of health data analysis.
